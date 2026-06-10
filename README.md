@@ -26,7 +26,9 @@
 > **免责声明**  
 > 本项目仅供学习与交流使用，请定期备份你的密码库。  
 > 本项目与 Bitwarden 官方无关，请不要向 Bitwarden 官方反馈 NodeWarden 的问题。
-
+> 
+> 来源网络的教程：https://www.youtube.com/watch?v=HSRuOqdaiBA
+> 
 ---
 
 ## 与 Bitwarden 官方服务端能力对比
